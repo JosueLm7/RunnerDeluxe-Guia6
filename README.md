@@ -34,7 +34,7 @@ RunnerDeluxe-v2/
 ## 🚀 Instalación y ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/usuario/RunnerDeluxe-v2.git
+   git clone https://github.com/JosueLm7/RunnerDeluxe-Guia6.git
    ```
 2. Abrir la carpeta en **Unity Hub**.  
 3. Seleccionar la versión de Unity recomendada (2020+).  
